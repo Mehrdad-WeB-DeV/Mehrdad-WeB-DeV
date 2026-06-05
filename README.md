@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Mehrdad 👋
 
-<!--
-**Mehrdad-WeB-DeV/Mehrdad-WeB-DeV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer passionate about building modern and responsive web applications.
 
-Here are some ideas to get you started:
+🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React
+
+TypeScript
+
+JavaScript
+
+HTML5
+
+CSS3
+
+WordPress
+
+📚 Currently Learning
+
+Back-End Development
+
+APIs
+
+Databases
+
+💻 Interests
+
+Web Development
+
+UI/UX Design
+
+Modern Front-End Technologies
+
+📫 Contact
+
+GitHub: github.com/Mehrdad_WeB_DeB
