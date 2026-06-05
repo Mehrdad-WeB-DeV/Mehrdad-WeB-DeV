@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a Frontend Developer passionate about building modern, responsive, and user-friendly web applications.<br><br>I enjoy turning ideas into real projects using clean and efficient code.
+Hi, I'm Mehrdad 👋
+Frontend Developer passionate about building modern, responsive, and user-friendly web applications.<br><br>I enjoy turning ideas into real projects using clean and efficient code.
 
 
 ## 🌐 Socials:
